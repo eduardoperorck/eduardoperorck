@@ -2,21 +2,21 @@
 
 # Eduardo Perorck
 
-Full Stack Developer focused on building real-world AI products
+Full Stack Developer building AI-powered products
 
 ---
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=eduardoperorck&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoperorck&layout=compact&theme=github_dark&hide_border=true" />
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardoperorck&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardoperorck&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=jupyter%20notebook" />
 
 </div>
 
 ## About
 
-I build full stack applications with AI at the core —  
-usually focused on automation, internal tools and productivity.
+I like building things that actually get used.
 
-Lately, I've been exploring how to turn repetitive workflows into systems.
+Most of my work sits between backend, frontend and AI —  
+usually turning manual processes into simple systems.
 
 ---
 
@@ -26,7 +26,7 @@ TypeScript · Python · React · Next.js
 Node.js · NestJS · Flask  
 
 OpenAI · LangChain · n8n  
-AWS · Docker 
+AWS · GCP · Docker · Pulumi
 
 ---
 
